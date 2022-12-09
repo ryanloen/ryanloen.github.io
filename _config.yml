@@ -1,0 +1,25 @@
+title:              Seattle Business Review
+email:              ryan@loen.me
+description:        A blog about Seattle businesses and local outstanding talent.
+author:             John Doe
+baseurl:            "/"
+url:                "https://seattlebusiness.review"
+
+# Social Profiles
+#twitter_username:   SBootstrap
+#github_username:    StartBootstrap
+#facebook_username:  StartBootstrap
+#instagram_username:  
+linkedin_username: seabusinessreview
+
+# Add your google-analytics ID here to activate google analytics
+#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
