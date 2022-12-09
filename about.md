@@ -5,3 +5,5 @@ permalink: /about
 ---
 
 Seattle Business Review is a leading business blog in the Seattle area, providing valuable insights and information on the latest business trends and news. Our team of experienced professionals offers a unique perspective on the local business community, and is committed to providing high-quality content for business professionals and entrepreneurs. Whether you are looking for advice on starting a business, tips on how to grow your company, or simply want to stay informed on the latest developments in the Seattle area, Seattle Business Review has you covered. Follow us for regular updates and stay connected to the heart of the Seattle business community.
+
+Please reach out to contact@seattlebusiness.review for any inquiries.
