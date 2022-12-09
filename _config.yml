@@ -1,7 +1,7 @@
 title:              Seattle Business Review
-email: ryan@loen.me
+email:           rynloen@gmail.com
 description:        A blog about Seattle businesses and local outstanding talent.
-author:             John Doe
+author:             Seattle Business Review
 baseurl:            "/"
 url:                "https://seattlebusiness.review"
 
@@ -10,7 +10,7 @@ url:                "https://seattlebusiness.review"
 #github_username:    StartBootstrap
 #facebook_username:  StartBootstrap
 #instagram_username:  
-linkedin_username: seabusinessreview
+linkedin_username: company/seabusinessreview/
 
 # Add your google-analytics ID here to activate google analytics
 #google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
